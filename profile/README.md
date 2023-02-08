@@ -1,5 +1,3 @@
-# Curriculum Vitae Project
-
 ### Documentation
 
 Project requirements and guidelines are availabe in 
